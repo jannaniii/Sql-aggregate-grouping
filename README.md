@@ -1,6 +1,5 @@
 # SQL Aggregate Functions and Grouping  
- Demonstrates the use of aggregate functions (COUNT, SUM, AVG) and grouping techniques
- (GROUP BY, HAVING) for summarizing and analyzing relational data using the Sakila sample database.
+   To demonstrate SQL aggregation and grouping to interpret and summarize transactional and film data in Sakila, a sample DVD rental database.
 
 
 ## Objectives
