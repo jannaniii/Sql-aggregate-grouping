@@ -4,13 +4,13 @@
 
 
 ## Objectives
--Categorize data efficiently with GROUP BY
--Filter aggregated results with HAVING
--Derive insights using aggregate functions
+- Categorize data efficiently with GROUP BY
+- Filter aggregated results with HAVING
+- Derive insights using aggregate functions
 
 ## Tools
--Database: MySQL (Sakila)
--IDE: MySQL Workbench
+- Database: MySQL (Sakila)
+- IDE: MySQL Workbench
 
 ##  Example Queries
 
